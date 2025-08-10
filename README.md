@@ -1,2 +1,2 @@
-# 500to1000
+# 500 to 1000
 Codechef starter problems
